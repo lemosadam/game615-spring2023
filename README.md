@@ -67,6 +67,7 @@ Red Car by J-Toastie [CC-BY] via Poly Pizza
 Camel by Poly by Google [CC-BY] via Poly Pizza
 
 Exercise 7
+
 [Play it here!](https://marcinek.tech/game615-spring2023-07/play/)
 
 [Link to source](https://github.com/kristenmarcinek/game615-spring2023-07)
