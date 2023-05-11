@@ -16,6 +16,8 @@ Dartboard by Jarlan Perez [CC-BY] via Poly Pizza
 
 [Play the game here](https://lemosadam.github.io/game615-spring2023/exercises/exercise02/play/index)
 
+[Link to Source](https://github.com/lemosadam/game615-spring2023/tree/main/exercises/exercise02)
+
 Exercise 3
 Ferret Simulator by Kayla Andreoli and Adam Lemos
 
