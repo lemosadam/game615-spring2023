@@ -90,11 +90,13 @@ Select a piece and press spacebar to capture it.
 Chess pieces by Jarlan Perez [CC-BY] via Poly Pizza
 
 Midterm
+
 [Play it Here](https://lemosadam.github.io/game615-spring2023-midterm/midterm/play/)
 
 [Link to Source](https://github.com/lemosadam/game615-spring2023-midterm)
 
 Final
+
 [Play it Here](https://marcinek.tech/game615-spring2023-final/final/play)
 
 [Link to Source](https://github.com/kristenmarcinek/game615-spring2023-final)
